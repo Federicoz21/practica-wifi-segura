@@ -2,7 +2,7 @@
 
 Trabajo práctico de Ciberseguridad - Seguridad en el aire: cómo sobrevivir a una Wi-Fi pública
 
-Alumno: Federico Zangaro (federicozangaro@outlook.com)
+Alumno: Federico Zangaro 
 
 ## Introducción
 
